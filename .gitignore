@@ -1,5 +1,14 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
+﻿# Visual Studio / VS Code internals
+.vs/
+.vscode/
+bin/
+obj/
 
-/.vs/MultithreadingPractice/CopilotIndices/17.14.1561.44479
+# User-specific files
+*.user
+*.userosscache
+*.sln.docuser
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
